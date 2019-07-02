@@ -1,5 +1,16 @@
 ## Resumo Geral
 
+A idéia desse desafio é entender a capacidade do candidato para criar um CRUD simples de uma aplicação SPA consumindo uma API Rest.  
+Não temos qualquer interesse em comercializar ou aproveitar de alguma forma o código escrito para esse desafio.
+
+A Estratégia Concursos está se reinventando e resolveu criar um time interno para desenvolver produtos digitais. Ela fornece um salário acima de mercado, um ambiente de start-up com horário flexível, para trabalhar no bairro Brooklin, na zona sul de São Paulo/SP. Procuramos um profissional full-stack, não para trabalhar dobrado, e sim porque acreditamos que o profissional deve ter um conhecimento básico sobre como implementar um CRUD de ponta-a-ponta.
+
+Nossa cultura é focada em resolver problemas sem dar desculpas. Buscamos pessoas que tenham confiança em si e estão dispostas a errar rápido e aprender com os erros. Fornecemos um ótimo ambiente para aprendizagem e investimos bastante em livros e treinamentos.  
+
+Leia com atenção todo o conteúdo abaixo sinta-se livre para entrar em contato conosco em caso de dúvidas.
+
+## Estória do Usuário
+
 O Github é uma rede social de programadores que possui uma funcionalidade
 interessante que permite curtir o repositório alheio. Trata-se de um botão
 escrito Star encontrado na página de cada repositório. Rick é um usuário ativo
@@ -103,17 +114,11 @@ do Linux e do OSX para conseguir rodar a aplicação.
 Outros pontos que vamos considerar na avaliação:
 
 - Código bem escrito, limpo e coeso.
-- Implementação da solução.
 - Testes automatizados (Cobertura de testes).
 - Linter/Análise estática do código.
-- README.md bem escrito, curto e com os comandos necessários para rodar a aplicação
-- Design da API RESTful, utilizando corretamente os verbos `HTTP` e os devidos
-`STATUS CODE` **[backend]**
+- README.md bem escrito, curto e com os comandos necessários para rodar a aplicação, bastando copiar/colar no terminal.
 - Documentação da API utilizando API Blueprint ou OpenAPI, não podendo ser utilizado pdf, txt ou qualquer
-outro formato **[backend]**
-- Conhecimento em Javascript, HTML5 e CSS3 **[frontend]**
-- Capacidade de implementar as telas **EXATAMENTE** como está no wireframe
-fornecido, considerando a posição dos elementos na tela **[frontend]**
+- Capacidade de implementar as telas **EXATAMENTE** como está no wireframe fornecido, considerando a posição dos elementos na tela **[frontend]**
 
 ## Instruções para entrega
 
